@@ -9,14 +9,15 @@
 
 brians_favorite_food = "tacos"
 bens_favorite_food = "sushi"
-puts brians_favorite_food.upcase
+puts brians_favorite_food.class
+puts bens_favorite_food.upcase
 
 number_of_tacos = 5
 puts number_of_tacos
 
 class Dog
  def speak
-  puts "Woof"
+  puts "gav-gav"
  end
 end
 
